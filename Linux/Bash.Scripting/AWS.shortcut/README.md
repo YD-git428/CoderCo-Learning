@@ -10,7 +10,7 @@ Make a file through the 'touch' command and name it 'openaws.sh' or 'openubuntu.
 
 # 3) Execute and Move your New File
 ![carbon](https://github.com/user-attachments/assets/91b285bf-0420-4100-8377-bee77141ca59)
-- Once you type 'echo $PATH' select any of them within your server (I recommend using /home/bin)
+- Once you type 'echo $PATH' select any path within your server (I recommend using /home/bin)
 - When selecting your path, end the path with the name of your file (without the .sh) 
 - Then all you need to do is:
 ![carbon (1)](https://github.com/user-attachments/assets/96db61e9-632d-4fe1-9986-0d1aaeb011eb)
