@@ -18,5 +18,8 @@ Make a file through the 'touch' command and name it 'openaws.sh' or 'openubuntu.
 
 # 4) TRY IT!
 
-Dont believe me? just type your file on its own anywhere in your server and... and watch your AWS come to life!
+Dont believe me? just type your file on its own anywhere in your server and... watch your AWS come to life!
+
+![Static Badge](https://img.shields.io/badge/Grateful-blue)
+
 
